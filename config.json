@@ -1,0 +1,22 @@
+{
+  "key": "custom-webhook-activity",
+  "type": "RestActivity",
+  "lang": {
+    "en-US": {
+      "name": "Custom Webhook",
+      "description": "Sends data to a custom webhook."
+    }
+  },
+  "configurationArguments": {
+    "applicationExtensionKey": "my-extension-key",
+    "save": {
+      "url": "https://my-server.com/save"
+    },
+    "publish": {
+      "url": "https://my-server.com/publish"
+    },
+    "validate": {
+      "url": "https://my-server.com/validate"
+    }
+  }
+}
