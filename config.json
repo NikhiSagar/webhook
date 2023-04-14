@@ -8,15 +8,15 @@
     }
   },
   "configurationArguments": {
-    "applicationExtensionKey": "my-extension-key",
+    "applicationExtensionKey": "2cad597d-b017-4bb7-b239-6115db3010b8",
     "save": {
-      "url": "https://my-server.com/save"
+      "url": "https://nikhilwebhook.herokuapp.com/save"
     },
     "publish": {
-      "url": "https://my-server.com/publish"
+      "url": "https://nikhilwebhook.herokuapp.com/publish"
     },
     "validate": {
-      "url": "https://my-server.com/validate"
+      "url": "https://nikhilwebhook.herokuapp.com/validate"
     }
   }
 }
