@@ -4,7 +4,7 @@ exports.execute = async function (event, context) {
 
   // Set up the options for the HTTP request
   const options = {
-    hostname: 'webhook.example.com',
+    hostname: 'https://nikhilwebhook.herokuapp.com/',
     path: '/path/to/webhook',
     method: 'POST',
     headers: {
