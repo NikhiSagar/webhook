@@ -1,7 +1,5 @@
 'use strict';
 
-const https = require('https');
-
 exports.execute = async function (event, context) {
   // Your custom code goes here
 };
